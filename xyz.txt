@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+myfiles
+>>>>>>> 952c730eaacc15b4a7a8db36ec9bf2fd2d42f6af
